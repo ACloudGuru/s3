@@ -23,6 +23,6 @@ $result = $client->deleteBucket(array(
 
 //code to create our webpage.
 echo "<h2 align=\"center\">Bucket $bucket successfully deleted.</h2>";
-echo "<div align = \"center\"><img src=\"https://s3-eu-west-1.amazonaws.com/acloudguru/logo.png\"></img></div>";
+echo "<div align = \"center\"><img src=\"https://acloud.guru/images/logo-small-optimised.png\"></img></div>";
 echo "<h2 align=\"center\">Good Bye Cloud Gurus!</h2>";
 ?>
