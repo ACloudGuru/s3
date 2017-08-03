@@ -17,6 +17,6 @@ $data = $result['Body'];
 echo "<h2 align=\"center\">The Bucket is $bucket</h2>";
 echo "<h2 align=\"center\">The Object's name is $key</h2>";
 echo "<h2 align=\"center\">The Data in the object is $data</h2>";
-echo "<div align = \"center\"><img src=\"https://acloud.guru/images/logo-small-optimised-with-text.png\"></img></div>";
+echo "<div align = \"center\"><img src=\"https://acloud.guru/images/logo-small-optimised.png\"></img></div>";
 echo "<div align = \"center\"><a href=\"cleanup.php?bucket=$bucket&key=$key\">Click Here To Remove Files & Bucket</a></div>";
 ?>
